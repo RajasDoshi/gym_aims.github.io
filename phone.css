@@ -1,0 +1,38 @@
+
+    div.form-group {
+      display: none;
+    }
+.btn {
+    
+        display: none;
+    
+      }
+      div.right{
+        display: none;
+      }
+  div.secondary{
+    margin-top: 80px;
+    justify-content: center;
+    text-align: center;
+  }
+  div.container{
+    display: flex;
+    margin: 0%;
+    max-width: 119%;
+    justify-content: center;
+    margin-top:50px;
+  align-items: center;
+  }
+div.primary{
+  text-size-adjust: 20px;
+  font-size:30px;
+}
+div.container button{
+  display: none;
+}
+div.logo{
+  display: none;
+}
+div.secondary{
+  margin-top: 100px;
+}
